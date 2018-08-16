@@ -1,0 +1,1 @@
+virtualenv downloader && source downloader/bin/activate && pip install -r requirements.txt
