@@ -1,11 +1,11 @@
-# To Setup
+## To Setup
 Run this command in terminal.
 ```
 sh SETUP
 ```
 
 
-# To Use 
+## To Use 
 Run this command to activate the virtual environment
 ```
 source downloader/bin/activate
